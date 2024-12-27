@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @pimp13
-- 👀 I’m interested in ...
-- 👀 I’m Programmer I Love Programming ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-pimp13/pimp13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Hello, I'm Pouya. I love programming and building applications.
+  My favorite technologies and programming languages are:
+  PHP,
+  Python,
+  JavaScript,
+  GO,
+  Ruby,
+  and my favorite frameworks:
+  Laravel,
+  Django,
+  React and NEXT.JS,
+  Gin,
+  Ruby on Rails
+  ...
