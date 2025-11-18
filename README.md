@@ -4,4 +4,4 @@
   GO,
   TypeScript
   
-  ![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg) "a title")
+  ![Alt text](https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg "a title")
