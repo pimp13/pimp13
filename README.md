@@ -4,5 +4,5 @@
   GO,
   TypeScript
   
-  ![Alt text]([https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg](https://maybe.works/media/blogs/typescript-what-is-its-power/1100x600.jpg) "typeScript")
+  ![Alt text](https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg](https://maybe.works/media/blogs/typescript-what-is-its-power/1100x600.jpg "typeScript")
   ![Alt text](https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg "Go")
