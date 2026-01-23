@@ -2,6 +2,7 @@
   Im fullstack developer
   My favorite technologies and programming languages are:
   GO,
+  Python
   TypeScript
   
   ![Go](https://miro.medium.com/1*Zud-L6m4Dd3Ikf_4vcZcKQ.jpeg "Go")
