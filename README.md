@@ -31,12 +31,20 @@ ___
 
 
 ___
+![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FPython-Logo.png&f=1&nofb=1&ipt=2882fc2e6fa06e54f21da49cb6898a70db9b308f170deb54b0223e1a13fc8832)
+___
+
+
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,golang,python,django,ubuntu,kali,bash,flask,docker,regex,bootstrap,tailwind,js,ts,react,nextjs,git,github,gitlab,npm,postman,netlify,md,babel,stackoverflow,codepen,linkedin&perline=12&theme=dark" />
   </a>
 </p>
+
+___
+![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.website-files.com%2F5be365b4ae1f663f89c67b33%2F6283f13d4742a293da729ee6_typescript-javascript-blog-header.jpg&f=1&nofb=1&ipt=160432dd1784fa46be368fea09b3b0daa99aff8f43b3410884b7949940c163b9)
+
 
 ___
 
