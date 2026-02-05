@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/FrontEnd%20Developer-darkred)
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
-	<li>🟦 Backend Developer (Go, Python, TypeScript)</li>
+	<li>🟦 Backend Developer <h4 style="display: inline">(Go, Python, TypeScript)</h4></li>
 	<li>🐧 Love Linux and Unix</li>
 	<li>🎓 Bachelor Degree Of Software Engineering</li>
 	<li>🧠 Always Passionate to Learn New Things </li>
