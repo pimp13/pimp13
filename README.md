@@ -19,7 +19,7 @@
 
 
 ># Hi 🙋🏻‍♂️ , I'm Pouya Ghazanfary Niya
-![](https://img.shields.io/badge/FrontEnd%20Developer-darkred)
+![](https://img.shields.io/badge/BackEnd%20Developer-darkred)
 >## 🌐 This is my WebSite: https://apophis.ir
 <h2>👩🏻‍💻 About me : </h2>
 <ul>
