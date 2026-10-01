@@ -48,21 +48,22 @@ var me =  map[string]any{
 ___
 ![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2022%2F05%2Flinux-logo.png&f=1&nofb=1&ipt=0b4e1f1fe7b64afee573f883475cd9f72cf1c74cbbc699b63657f702ddcbc8e9)
 ___
+
+___
+![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.website-files.com%2F5be365b4ae1f663f89c67b33%2F6283f13d4742a293da729ee6_typescript-javascript-blog-header.jpg&f=1&nofb=1&ipt=160432dd1784fa46be368fea09b3b0daa99aff8f43b3410884b7949940c163b9)
+___
+
+
 🌱As a full stack developer, I am passionate about developing the best applications and software. I have the ability to solve problems and debug large projects. I have worked on many projects and I am very passionate about developing projects as DevOps. And I am a real fan of Linux. Because it helps me a lot with its small but specialized tools to work with different servers.
 
 
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,golang,python,django,ubuntu,kali,bash,flask,docker,regex,bootstrap,tailwind,js,ts,react,nextjs,git,github,gitlab,npm,postman,netlify,md,babel,stackoverflow,codepen,linkedin&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,golang,tailwind,js,ts,react,nextjs,python,django,ubuntu,kali,bash,flask,docker,regex,bootstrap,git,github,gitlab,npm,postman,netlify,md,babel,stackoverflow,codepen,linkedin&perline=12&theme=dark" />
   </a>
 </p>
 
-___
-![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.website-files.com%2F5be365b4ae1f663f89c67b33%2F6283f13d4742a293da729ee6_typescript-javascript-blog-header.jpg&f=1&nofb=1&ipt=160432dd1784fa46be368fea09b3b0daa99aff8f43b3410884b7949940c163b9)
-
-
-___
 
 <h3> 🏆 GitHub Status : </h3>
 
