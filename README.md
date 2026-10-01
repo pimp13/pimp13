@@ -1,60 +1,73 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=Pouya%20Ghazanfari%20Niya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Linux%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-# 👋 Hey, I'm **Pouya Ghazanfari Niya**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Go+%7C+TypeScript+%7C+JavaScript+%F0%9F%94%A5;Linux+%26+DevOps+Enthusiast+%F0%9F%90%A7;Building+APIs%2C+Systems+%26+Web+Applications+%F0%9F%9A%80" />
 
-### Full-Stack Developer · Backend Engineer · Linux Enthusiast
+<br/>
 
-**Building scalable backends, modern web applications, and developer-focused systems.**
+<a href="https://apophis.ir">
+<img src="https://img.shields.io/badge/🌐%20Website-apophis.ir-0ea5e9?style=for-the-badge"/>
+</a>
+<a href="https://github.com/pimp13">
+<img src="https://img.shields.io/badge/💻%20GitHub-pimp13-18181b?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://t.me/adsout">
+<img src="https://img.shields.io/badge/💬%20Telegram-@adsout-229ED9?style=for-the-badge&logo=telegram"/>
+</a>
+<a href="mailto:pimp.puma.13@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p>
-  <a href="https://apophis.ir">
-    <img src="https://img.shields.io/badge/Website-apophis.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/pimp13">
-    <img src="https://img.shields.io/badge/GitHub-pimp13-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/adsout">
-    <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:pimp.puma.13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="420" />
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="380"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm **Pouya Ghazanfari Niya**, a Full-Stack Developer with a strong focus on **backend engineering**.
+## 👨🏻‍💻 Hey, I'm Pouya!
 
-My main areas of interest are **Go, TypeScript, JavaScript, APIs, databases, Linux and DevOps**.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
-I enjoy building applications from the backend architecture and database layer all the way to modern frontend interfaces and production deployment.
+</div>
 
-I've worked on **many different projects and around 100 repositories**, experimenting with different architectures, technologies, tools and approaches.
+I'm **Pouya Ghazanfari Niya**, a **Full-Stack Developer** with a strong focus on **Backend Engineering**.
 
-What I enjoy most is taking an idea and turning it into a **clean, maintainable and production-ready system**.
+I love building systems where the backend, database, API, infrastructure and frontend work together as one clean architecture.
+
+My main focus is:
+
+<div align="center">
+
+### ⚡ Go · TypeScript · JavaScript · Node.js · React · Next.js · PostgreSQL · Linux · Docker
+
+</div>
+
+I've built and experimented with **around 100 repositories and projects**, ranging from small experiments and learning projects to larger full-stack applications and backend systems.
+
+---
+
+# 🧠 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="180"/>
 
 ```ts
 const pouya = {
+  name: "Pouya Ghazanfari Niya",
+
   role: "Full-Stack Developer",
 
-  focus: [
-    "Backend Engineering",
-    "API Design",
-    "System Architecture",
-    "DevOps",
-  ],
+  specialization: "Backend Engineering",
 
-  primaryLanguages: [
+  languages: [
     "Go",
     "TypeScript",
     "JavaScript",
+    "Python",
   ],
 
   frontend: [
@@ -76,214 +89,296 @@ const pouya = {
     "Redis",
   ],
 
-  environment: [
+  devops: [
     "Linux",
     "Docker",
-    "Git",
     "Nginx",
+    "Bash",
+    "Git",
   ],
 
-  mindset: "Build. Learn. Improve. Repeat.",
+  philosophy:
+    "Build. Break. Learn. Improve. Repeat. 🚀",
 };
 ```
 
----
-
-## ⚡ What I Do
-
-### 🔥 Backend Engineering
-
-I enjoy working on the parts of applications that users don't directly see:
-
-* RESTful API design
-* Authentication & Authorization
-* JWT-based systems
-* Role & Permission systems
-* Database architecture
-* PostgreSQL & SQL
-* Backend modular architecture
-* Service design
-* Performance & scalability
-* API security
-* Background services
-* Caching with Redis
-
-### 🌐 Full-Stack Development
-
-I also build modern web applications using:
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Modern component architectures
-* Server/client state management
-* Form validation
-* API-driven frontends
-
-### 🐧 Linux & DevOps
-
-Linux is a big part of how I develop and deploy software.
-
-I'm interested in:
-
-* Linux servers
-* Docker & Docker Compose
-* Nginx
-* Process management
-* CI/CD
-* Server deployment
-* Networking
-* Shell scripting
-* Production environments
-* Developer tooling
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ What I Build
 
 <div align="center">
 
-### Backend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=go,ts,nodejs,nestjs,python,postgres,redis" />
+### 🔥 Backend Systems
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,ts" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css" />
+<br/><br/>
 
-### DevOps & Tools
+• REST APIs
+• Authentication
+• JWT
+• Authorization
+• Roles & Permissions
+• PostgreSQL
+• Redis
+• API Architecture
+• Modular Backends
+• Scalable Services
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash,git,github,gitlab" />
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Modern Web Apps
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+
+<br/><br/>
+
+• React Applications
+• Next.js
+• TypeScript
+• Admin Dashboards
+• API-driven Frontends
+• State Management
+• Form Validation
+• Responsive UI
+• Component Architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 Linux & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash" />
+
+<br/><br/>
+
+• Linux Servers
+• Docker
+• Docker Compose
+• Nginx
+• Deployment
+• Server Management
+• Shell Scripting
+• Production Environments
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Software Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+
+<br/><br/>
+
+• Clean Architecture
+• API-first Design
+• Modular Systems
+• Monorepos
+• Authentication Systems
+• Access Control
+• Database Design
+• Developer Tooling
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 What I've Been Building
+# 🚀 My Development Journey
 
-Over the years I've built and experimented with **many projects and repositories**, ranging from small experiments and learning projects to larger full-stack applications.
+<div align="center">
 
-My GitHub is essentially a collection of the technologies, architectures and ideas I've worked with.
+<img src="https://user-images.githubusercontent.com/74038190/212257480-2e9f8f3e-8d8f-4b1d-b7e3-5d4c3e4d7e7d.gif" width="600"/>
 
-Some of the areas I've explored include:
+</div>
 
-```text
-                    ┌──────────────────────┐
-                    │      SOFTWARE        │
-                    │      ENGINEERING     │
-                    └──────────┬───────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-     BACKEND              FRONTEND              DEVOPS
-          │                    │                    │
-     ┌────┴────┐          ┌────┴────┐          ┌────┴────┐
-     │         │          │         │          │         │
-     Go     Node.js      React     Next.js    Linux    Docker
-     │         │          │         │          │         │
-     └────┬────┘          └────┬────┘          └────┬────┘
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               ▼
-                        PostgreSQL / SQL
-```
+I started with web development and gradually moved deeper into backend engineering, databases, Linux and infrastructure.
 
-### 🔐 Authentication & Authorization
-
-I've built systems involving:
-
-* Authentication
-* JWT
-* Protected routes
-* Guards
-* Roles
-* Permissions
-* Access control
-* Admin panels
-* User management
-
-### 📦 API-First Applications
-
-I particularly enjoy architectures where the backend is a clean API and the frontend consumes it independently.
-
-This approach allows me to build:
+Today, I enjoy working across the entire stack while spending most of my time thinking about the **backend and system architecture**.
 
 ```text
-Frontend
-   │
-   ▼
-REST API
-   │
-   ▼
-Application Logic
-   │
-   ├── Authentication
-   ├── Authorization
-   ├── Services
-   └── Validation
-   │
-   ▼
-PostgreSQL / Redis
+                 ┌─────────────────────────┐
+                 │       💡 IDEA            │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │   🧠 ARCHITECTURE │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+        ⚙️ Backend       🗄️ Database     🌐 Frontend
+              │              │              │
+              ▼              ▼              ▼
+             Go          PostgreSQL      React
+          TypeScript        Redis        Next.js
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                      🐳 Docker / Linux
+                             │
+                             ▼
+                        🚀 Production
 ```
 
-### 🧩 Large-Scale Project Structure
+---
 
-I've also worked with modular project structures and different architectural approaches, continuously comparing what works best for different types of applications.
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 👨🏻‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,bash" />
+
+<br/><br/>
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,nestjs" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+
+<br/><br/>
+
+### 🐧 DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,gitlab" />
+
+</div>
 
 ---
 
-## 📌 Featured Areas
+# 📂 Around 100+ Projects & Repositories
 
-If you're exploring my repositories, you'll find projects and experiments around:
+<div align="center">
 
-| Area         | Technologies                           |
-| ------------ | -------------------------------------- |
-| Backend      | Go · Node.js · NestJS                  |
-| Languages    | Go · TypeScript · JavaScript · Python  |
-| Frontend     | React · Next.js                        |
-| Databases    | PostgreSQL · SQL · Redis               |
-| DevOps       | Linux · Docker · Nginx · Bash          |
-| APIs         | REST · Authentication · Authorization  |
-| Architecture | Modular Design · API-First · Monorepos |
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
----
+</div>
 
-## 🧠 Engineering Philosophy
+My GitHub contains **around 100 repositories and projects**.
 
-I don't want to just make things **work**.
+They cover different stages of my development journey:
 
-I like understanding:
+```text
+🧪 Experiments
+      ↓
+📚 Learning Projects
+      ↓
+🔧 Developer Tools
+      ↓
+🌐 Web Applications
+      ↓
+⚙️ Backend Systems
+      ↓
+🗄️ Database-driven Applications
+      ↓
+🐳 Dockerized Applications
+      ↓
+🚀 Production-oriented Systems
+```
 
-> **Why does it work?**
-
-> **How can it scale?**
-
-> **How should it be structured?**
-
-> **What happens when the system grows?**
-
-> **How can it be made simpler?**
-
-That's why I spend a lot of time exploring different technologies, architectures and approaches.
+I use GitHub not only as a portfolio, but also as a place to **experiment, learn, build and document ideas**.
 
 ---
 
-## ☕ Outside Code
+# 🔐 Backend Architecture
 
-When I'm not writing code, you'll probably find me:
+One of the areas I particularly enjoy is designing backend systems.
 
-* ☕ Drinking coffee
-* 🐧 Working with Linux
-* 🖥️ Exploring servers and DevOps
-* 🎬 Watching movies
-* 🧠 Learning something new
+```text
+                  🌐 Client
+                     │
+                     ▼
+              ┌──────────────┐
+              │   REST API   │
+              └──────┬───────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       🔐 Auth    🛡️ Access   ✅ Validation
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+              ⚙️ Business Logic
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+     🗄️ PostgreSQL           ⚡ Redis
+          │
+          ▼
+      📦 Persistent Data
+```
+
+I enjoy working on:
+
+**Authentication → Authorization → API Design → Business Logic → Database → Infrastructure**
 
 ---
 
-## 📊 GitHub
+# 🐧 Why Linux?
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
+### 🐧 Linux is not just an operating system.
+
+### It's part of my development environment.
+
+</div>
+
+I enjoy working with Linux because it gives me direct control over the tools and environment I use every day.
+
+From development machines to servers, I enjoy working with:
+
+```bash
+$ whoami
+pouya
+
+$ uname -o
+GNU/Linux
+
+$ git status
+Building something awesome...
+
+$ docker ps
+Running containers...
+
+$ go version
+Building fast backends 🚀
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -291,11 +386,7 @@ When I'm not writing code, you'll probably find me:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimp13&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pimp13&theme=tokyonight&hide_border=true" />
 
@@ -303,57 +394,110 @@ When I'm not writing code, you'll probably find me:
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/monji024/monji024/raw/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/monji024/monji024/raw/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://github.com/monji024/monji024/raw/output/pacman-contribution-graph.svg"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/monji024/monji024/output/pacman-contribution-graph.svg" width="850"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+# 💻 Current Interests
+
+<div align="center">
+
+|  🚀 | Area                               |
+| :-: | ---------------------------------- |
+|  🦀 | **Go & Backend Engineering**       |
+|  ⚡  | **TypeScript & Node.js**           |
+|  🧠 | **Software Architecture**          |
+| 🗄️ | **PostgreSQL & SQL**               |
+|  🐧 | **Linux & Servers**                |
+|  🐳 | **Docker & DevOps**                |
+|  🌐 | **React & Next.js**                |
+|  🔐 | **Authentication & Authorization** |
+
+</div>
+
+---
+
+# 🎯 What I'm Working Toward
+
+```text
+                    SOFTWARE ENGINEER
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+        BACKEND ENGINEERING          DEVOPS
+             │                           │
+        ┌────┴────┐                 ┌────┴────┐
+        │         │                 │         │
+       Go       TypeScript        Linux     Docker
+        │         │                 │         │
+        └────┬────┘                 └────┬────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           ▼
+                  🚀 PRODUCTION SYSTEMS
+```
+
+My long-term direction is to become stronger in **backend engineering, distributed systems, infrastructure and DevOps**, while continuing to build complete full-stack applications.
+
+---
+
+# ☕ Outside Programming
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
+
+### ☕ Coffee
+
+### 🎬 Movies
+
+### 🐧 Linux
+
+### 💻 Coding
+
+### 🚀 Building Projects
+
+</div>
+
+---
+
+# 📫 Let's Build Something
 
 <div align="center">
 
 <a href="https://apophis.ir">
-<img src="https://img.shields.io/badge/Website-apophis.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Website-Visit-0ea5e9?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/pimp13">
-<img src="https://img.shields.io/badge/GitHub-pimp13-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://t.me/adsout">
-<img src="https://img.shields.io/badge/Telegram-@adsout-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/💬%20Telegram-Message-229ED9?style=for-the-badge&logo=telegram"/>
 </a>
 
 <a href="mailto:pimp.puma.13@gmail.com">
-<img src="https://img.shields.io/badge/Email-pimp.puma.13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💻 Code is not just my job — it's how I think.
+### ⭐ If you find something useful in my repositories, consider giving it a star!
 
-**Thanks for visiting my profile. 🚀**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0f172a&height=120&section=footer"/>
 
 </div>
