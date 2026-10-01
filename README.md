@@ -49,7 +49,6 @@ ___
 ![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2022%2F05%2Flinux-logo.png&f=1&nofb=1&ipt=0b4e1f1fe7b64afee573f883475cd9f72cf1c74cbbc699b63657f702ddcbc8e9)
 ___
 
-___
 ![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.website-files.com%2F5be365b4ae1f663f89c67b33%2F6283f13d4742a293da729ee6_typescript-javascript-blog-header.jpg&f=1&nofb=1&ipt=160432dd1784fa46be368fea09b3b0daa99aff8f43b3410884b7949940c163b9)
 ___
 
