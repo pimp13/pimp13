@@ -35,15 +35,30 @@
 ![Github Stats](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F2142721.png&f=1&nofb=1&ipt=3014d51681415048d2a09c5cec3b856934014af9f6d301eed76c5344fd108757)
 ___
 
-```go
-var me =  map[string]any{
-	"name": "Pouya Ghazanfary Niya",
-	"currentlyAt": "Tehran & Alborz",
-	"status": "Open For Job Offers",
-	"skills": []string{"Linux", "Golang", "Python", "TypeScript", "React & NextJS", "DevOps"},
-	"howToContact": []string{"E-Mail: pimp.puma.13@gmail.com", "Phone : +989104914467", "t.me/YouBeet"},
-	"hobbys": []string{"Coding", "Drinking Coffee", "Working with Linux servers and DevOps"},
-}
+```typescript
+const me: PouyaInfo = {
+  name: "Pouya Ghazanfary Niya",
+  currentlyAt: "Tehran & Alborz",
+  status: "Open For Job Offers",
+  skills: [
+    "Linux",
+    "Golang",
+    "Python",
+    "TypeScript",
+    "React & NextJS",
+    "DevOps",
+  ],
+  howToContact: [
+    "E-Mail: pimp.puma.13@gmail.com",
+    "Phone: +989104914467",
+    "t.me/YouBeet",
+  ],
+  hobbys: [
+    "Coding",
+    "Drinking Coffee",
+    "Working with Linux servers and DevOps",
+  ],
+};
 ```
 ___
 ![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2022%2F05%2Flinux-logo.png&f=1&nofb=1&ipt=0b4e1f1fe7b64afee573f883475cd9f72cf1c74cbbc699b63657f702ddcbc8e9)
