@@ -385,7 +385,7 @@ Building fast backends 🚀
 <img src="https://github-readme-stats.vercel.app/api?username=pimp13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimp13&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pimp13&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pimp13&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimp13&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="180"/>
 
 <br/><br/>
 
