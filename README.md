@@ -51,11 +51,6 @@ ___
 🌱As a full stack developer, I am passionate about developing the best applications and software. I have the ability to solve problems and debug large projects. I have worked on many projects and I am very passionate about developing projects as DevOps. And I am a real fan of Linux. Because it helps me a lot with its small but specialized tools to work with different servers.
 
 
-___
-![Github Quirk](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FPython-Logo.png&f=1&nofb=1&ipt=2882fc2e6fa06e54f21da49cb6898a70db9b308f170deb54b0223e1a13fc8832)
-___
-
-
 <h3>🔧 Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
